@@ -1,0 +1,21 @@
+{
+  "name": "human-resources-project-server",
+  "version": "1.0.0",
+  "description": "Server-side application for the Human Resources project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "human resources",
+    "server",
+    "API"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.2"
+  }
+}
